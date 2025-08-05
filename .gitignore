@@ -19,7 +19,7 @@
 scripts/*.out
 scripts/*.sh
 scripts/*.bat
-build/*
+build/
 bin/*
 docs/.jekyll-cache/*
 docs/_site/*
