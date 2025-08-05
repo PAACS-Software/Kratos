@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/21d2bd81cac0761032ed50d5db34406b/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/fc1925fd86b3549207ad9061068affc2/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/6bb33270392350b5c84fc3e170699802/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/6bb33270392350b5c84fc3e170699802/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/6bb33270392350b5c84fc3e170699802/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/6bb33270392350b5c84fc3e170699802/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/6bb33270392350b5c84fc3e170699802/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/6bb33270392350b5c84fc3e170699802/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/6bb33270392350b5c84fc3e170699802/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/CMakeFiles/6bb33270392350b5c84fc3e170699802/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

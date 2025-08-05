@@ -1,0 +1,10 @@
+^C:\USERS\PAULD\ONEDRIVE\DOCUMENTS\GITHUB\PAACS-UI\PAACS-SOLIS\3RDPARTY\KRATOS\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\21D2BD81CAC0761032ED50D5DB34406B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild -BC:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/pauld/OneDrive/Documents/GitHub/paacs-ui/PAACS-Solis/3rdparty/Kratos/_deps/googletest-subbuild/googletest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
